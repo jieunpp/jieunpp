@@ -1,1 +1,8 @@
-https://camo.githubusercontent.com/073b19948eacf32aa930cac9b831bf058c0efcb8702fd30898e6be8f59f89932/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d7761766526636f6c6f723d46463646334326746578743d4a4945554e5041524b26666f6e74436f6c6f723d464345324346266865696768743d3330302673656374696f6e3d68656164657226666f6e7453697a653d37302626616e696d6174696f6e3d7477696e6b6c696e67
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=FF6F3C&text=JIEUNPARK&fontColor=FCE2CF&height=300&section=header&fontSize=70&&animation=twinkling)
+
+
+<h2 align="center">🪐🌠Teck Stack🌙 🌌</h2>
+
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/><img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/><img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/><img alt="Oracle" src ="https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white" /><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+
